@@ -1,0 +1,44 @@
+[
+    {
+        "title": "X-ray",
+        "img": "https://www.s-spinehospital.com/en/wp-content/uploads/2021/02/x-ray_machine.jpg",
+        "description": "An X-ray is a quick, painless test that produces images of the structures inside your body",
+        "id": 1,
+        "details": "X-ray beams pass through your body, and they are absorbed in different amounts depending on the density of the material they pass through. Dense materials, such as bone and metal, show up as white on X-rays. The air in your lungs shows up as black. Fat and muscle appear as shades of gray."
+    },
+    {
+        "title": "CT Scan",
+        "img": "https://cloud2.spineuniverse.com/sites/default/files/imagecache/large-content/wysiwyg_imageupload/3998/2017/10/31/CT%20Scan%20222.jpg",
+        "description": "CT scans can produce clear and high-quality images of the internal structures of the body.",
+        "id": 2,
+        "details": "Using specialized equipment to create CT scans of the body, health professionals can easily diagnose various health conditions like heart disease, cancer, infectious disorders, trauma, and musculoskeletal problems."
+    },
+    {
+        "title": "Bronchoscopy",
+        "img": "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2016/09/01/14/38/mcdc7_bronchoscopy-8col.jpg",
+        "description": "Bronchoscopy are a persistent cough, something unusual seen on a chest X-ray.",
+        "id": 3,
+        "details": "Bronchoscopy is a procedure that lets doctors look at your lungs and air passages. It's usually performed by a doctor who specializes in lung disorders (a pulmonologist). During bronchoscopy, a thin tube (bronchoscope) is passed through your nose or mouth, down your throat and into your lungs."
+    },
+    {
+        "title": "MRI scan",
+        "img": "https://images.medicinenet.com/images/article/main_image/what-is-an-mri-scan-used-to-diagnose.jpg",
+        "description": "MRI scans are often used to image the non-bony parts or soft tissues of the body such as the: Brain, Spinal cord and nerves etc.",
+        "id": 4,
+        "details": "Magnetic resonance imaging is a medical imaging technique used in radiology to form pictures of the anatomy and the physiological processes of the body. MRI scanners use strong magnetic fields, magnetic field gradients, and radio waves to generate images of the organs in the body."
+    },
+    {
+        "title": "Dental Care",
+        "img": "https://hongkongfp.com/wp-content/uploads/2018/09/govdental.jpg",
+        "description": "We focus on patient disease and provide treatment options for the same procedures offered in general and  specialty practices..",
+        "id": 5,
+        "details": "Our all dental equipment and tools in one place and is staffed by dentists, dental specialists, dental assistants, and dental hygienists."
+    },
+    {
+        "title": "Vision Care",
+        "img": "https://image.shutterstock.com/image-photo/close-portrait-female-optometrist-using-260nw-1962101656.jpg",
+        "description": "These tests help your doctor find out if you have a problem that affects how well you can see.",
+        "id": 6,
+        "details": "An eye examination is a series of tests performed to assess vision and ability to focus on and discern objects. It also includes other tests and examinations pertaining to the eyes. Eye examinations are primarily performed by an optometrist, ophthalmologist, orthoptist, or an optician."
+    }
+]

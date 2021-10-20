@@ -1,0 +1,44 @@
+[
+    {
+        "name": "dr. syedul islam",
+        "position": "Medicine & Gastroenterology",
+        "id": "1",
+        "img": "https://doctoryouneed.org/wp-content/uploads/2019/10/Dr.-Syedul-Islam.jpg",
+        "description": "MBBS, FCPS (Medicine), CCD (BIRDEM), MD (Gastroliver)"
+    },
+    {
+        "name": "Dr. Mahmud Masum Attar",
+        "position": "Respiratory Medicine",
+        "id": "2",
+        "img": "https://surecellbd.com/wp-content/uploads/2019/09/Dr.-Mahmud-Masum-Attar-400x400.jpg",
+        "description": "MBBS (Dhaka), DTCD (BSMMU), Consultant, Chest & Regenerative Medicine"
+    },
+    {
+        "name": "Prof. Dr. Col. Abdul Quddus Bhuiyan",
+        "position": "Medicine & Nephrology",
+        "id": "3",
+        "img": "http://www.ibhospital.com/admin/pic/lBGu2Mo8nJWQk6HzOERF.jpg",
+        "description": "MBBS, MCPS, FCPS [NEPHROLOGY] Associate Professor, Armed Forces Medical collage & CMH, Dhaka"
+    },
+    {
+        "name": "dr. md. azizul karim",
+        "position": " Medicine & Cardiology",
+        "id": "4",
+        "img": "https://doctoryouneed.org/wp-content/uploads/2019/10/Dr.-Md.-Azizul-Karim-1000x1000.jpg",
+        "description": "MBBS,FCPS(Medicine), MD (Cardiology)"
+    },
+    {
+        "name": "Dr. M H M Alamgir",
+        "position": "Bone- Joint Specialist & Orthopedic Surgeon",
+        "id": "5",
+        "img": "https://www.mawbiz.com.bd/application/views/module/product_image/dr-m-h-m-alamgir_1.jpg",
+        "description": "MBBS, MS(Ortho), Asso. Professor, Shaheed Suhrawardy Medical College and Hospital"
+    },
+    {
+        "name": "Dr. Kazi Farhana Begum",
+        "position": "Gynae & Obs. Specialist & Surgeon",
+        "id": "6",
+        "img": "https://doctoryouneed.org/wp-content/uploads/2019/10/Dr.-Kazi-Farhana-Begum-1.jpg",
+        "description": "MBBS, FCPS (Gynae & Obs.),  Bangabandhu Sheikh Mujib Medical University (PG Hospital),Dhaka"
+    }
+]
